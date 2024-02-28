@@ -14,10 +14,9 @@ This project provides a simple file management system where users can register, 
 
 ## Technologies Used
 
-- Backend: Node.js
+- Backend: Node.js 
 - Frontend: React.js
-- Database: MongoDB (or any database of your choice)
-- Authentication: JSON Web Tokens (JWT)
+- Database: MongoDB 
 - File Storage: File system
 
 ## API Endpoints
